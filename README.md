@@ -33,6 +33,7 @@ The Library Management System simplifies library operations by providing an easy
 
 The Library Management System is built using the following tools and technologies:
 
+- **Sublime:** Text editor used for the project.
 - **PHP:** Server-side scripting language for backend development.
 - **HTML:** Markup language for structuring the content of web pages.
 - **CSS:** Styling language for enhancing the presentation and appearance of web pages.
